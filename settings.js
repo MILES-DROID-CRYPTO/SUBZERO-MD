@@ -1,4 +1,4 @@
-  SESSION_ID: "", // Put Session Id Here Inside "*"
+  SESSION_ID: "", // "Ice~KQQg91"
 module.exports = {
   SESSION_ID: "Ice~KQQg91", // Put Session Id Here Inside "*"
   OWNER_NUMBER: "254787065390", // Put Owner Number Here 
